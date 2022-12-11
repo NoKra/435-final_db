@@ -4,71 +4,71 @@
             "recipeId": "aec623a2-a98f-405f-bb44-7723f03146f3",
             "recipeName": "Ebi Onigiri",
             "authorName": "Conbini Hero",
-            "ingredients": ["Rice", "Shrimp", "Mayo"],
-            "instructions": ["Cook rice", "Cook shrimp", "Make ball of rice", "Put shrimp and mayo in ball"]
+            "ingredients": "Rice, Shrimp Mayo",
+            "instructions": "Cook rice, Cook shrimp, Make ball of rice, Put shrimp and mayo in ball"
         },
         {
             "id": "d5704cab-465e-41cf-bc69-a2268114c467",
             "recipeName": "Spaghetti",
             "authorName": "Plumbing Is My Day Job",
-            "ingredients": ["Beef", "Spaghetti Noodles", "Mushrooms", "Tomatoes"],
-            "instructions": ["Put everything but noodles in pot and cook", "Cook noodles"]
+            "ingredients": "Beef, Spaghetti Noodles, Mushrooms, Tomatoes",
+            "instructions": "Put everything but noodles in pot and cook, Cook noodles"
         },
         {
             "id": "6e279567-137d-4828-995b-73b61e052e6a",
             "recipeName": "Chicken Salad",
             "authorName": "Back To Basics",
-            "ingredients": ["Eggs", "Chicken", "Celery", "Mayo"],
-            "instructions": ["Cook Chicken", "Cut Celery", "Mix Everything"]
+            "ingredients": "Eggs, Chicken, Celery, Mayo",
+            "instructions": "Cook Chicken, Cut Celery, Mix Everything"
         },
         {
             "id": "ee5ff241-d5cc-4339-858a-25766b8dc734",
             "recipeName": "Fruit Smoothie",
             "authorName": "Smooties 4 Days",
-            "ingredients": ["Apples", "Oranges", "Bananas"],
-            "instructions": ["Mix", "Refridgerate"]
+            "ingredients": "Apples, Oranges, Bananas",
+            "instructions": "Mix, Refridgerate"
         },
         {
             "id": "22948bef-6240-42f5-8844-596f9bdc97fc",
             "recipeName": "Milk and Cookeis",
             "authorName": "Mr. Santa C. Clause",
-            "ingredients": ["Milk", "Cookies"],
-            "instructions": ["Pour", "Eat"]
+            "ingredients": "Milk, Cookies",
+            "instructions": "Pour, Eat"
         },
         {
             "id": "61a794fd-4a05-45b8-9756-e53a05b862c3",
             "recipeName": "Salmon Sushi",
             "authorName": "Sushi Columbo",
-            "ingredients": ["Salmon", "Cucumber", "Seaweed", "Rice"],
-            "instructions": ["Cook Rice", "Roll Sushi"]
+            "ingredients": "Salmon, Cucumber, Seaweed, Rice",
+            "instructions": "Cook Rice, Roll Sushi"
         },
         {
             "id": "8c410cef-c121-4367-bf2d-7e5d16ae8326",
             "recipeName": "Teriyaki Chicken",
             "authorName": "I Buy Frozen Food",
-            "ingredients": ["Frozen bag of Teriyaki Chicken"],
-            "instructions": ["Buy frozen Teriyaki Chicken", "Put in Microwave"]
+            "ingredients": "Frozen bag of Teriyaki Chicken",
+            "instructions": "Buy frozen Teriyaki Chicken, Put in Microwave"
         },
         {
             "id": "6f9ddd4c-2b9c-4f6f-ad4c-0f5268d6b859",
             "recipeName": "Coffee",
             "authorName": "Caffeine Is My Other Blood",
-            "ingredients": ["Coffee Beans", "Sugar", "Creamer"],
-            "instructions": ["Put coffee beans in coffee maker", "Push start", "Wait two minutes", "Add sugar and creamer"]
+            "ingredients": "Coffee Beans, Sugar, Creamer",
+            "instructions": "Put coffee beans in coffee maker, Push start, Wait two minutes, Add sugar and creamer"
         },
         {
             "id": "dee54c57-b032-4820-9032-1ed06e345d34",
             "recipeName": "Cup Noodles",
             "authorName": "Lord of the Cups",
-            "ingredients": ["Any type of cup noodles", "Water"],
-            "instructions": ["Boil water", "Fill cup with boiled water to line", "Wait 3 to 5 minutes"]
+            "ingredients": "Any type of cup noodles, Water",
+            "instructions": "Boil water, Fill cup with boiled water to line, Wait 3 to 5 minutes"
         },
         {
             "id": "3fe0de13-acbc-4ab5-8b57-85de3f16680f",
             "recipeName": "Pico De Gallo",
             "authorName": "The Spice of Life",
-            "ingredients": ["Roman Tomatoes", "Cilantro", "Jalapenos", "Onions", "Lemon Juice", "Lime Juice"],
-            "instructions": ["Cut tomatoes, Onions and Jalapenos to small pieces", "Finely chop Cilantro", "Mix everything into a bowl"]
+            "ingredients": "Roman Tomatoes, Cilantro, Jalapenos, Onions, Lemon Juice, Lime Juice",
+            "instructions": "Cut tomatoes, Onions and Jalapenos to small pieces, Finely chop Cilantro, Mix everything into a bowl"
         }
     ]
 }
