@@ -75,27 +75,27 @@
         {
             "username": "Conbini Hero",
             "password": "1234",
-            "motto": "7-11 is my Bat Cave",
+            "motto": "7-11 is my Bat Cave"
         },
         {
             "username": "Mr. Santa C. Clause",
             "password": "1234",
-            "motto": "I've watched Fozen 12 times, Elsa is my hero",
+            "motto": "I've watched Fozen 12 times, Elsa is my hero"
         },
         {
             "username": "Lord of the Cups",
             "password": "1234",
-            "motto": "One Cup to rule them all, and in the noodles, bind them",
+            "motto": "One Cup to rule them all, and in the noodles, bind them"
         },
         {
             "username": "Plumbing Is My Day Job",
             "password": "1234",
-            "motto": "Daisy > Peach",
+            "motto": "Daisy > Peach"
         },
         {
             "username": "I Buy Frozen Food",
             "password": "1234",
-            "motto": "I only own a freezer",
+            "motto": "I only own a freezer"
         }
     ]
 }
